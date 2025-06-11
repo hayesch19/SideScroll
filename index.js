@@ -10,8 +10,8 @@ class Player {
             x: 100,
             y: 100
         }
-        this.width = 40
-        this.height = 40
+        this.width = 30
+        this.height = 30
     }
     draw() {
         c.fillStyle = 'orange'
